@@ -17,3 +17,6 @@ Explore applications and projects powered by MiniMax H3 Max, from AI video creat
 ## Free MiniMax H3 Max Tools
 
 A collection of tools that provide free credits or trial access to MiniMax H3 Max, making it easy to try its AI video generation features.
+
+* [minimax-h3.com](https://minimax-h3.com/)
+* [h3max.pro](https://h3max.pro/)
