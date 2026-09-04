@@ -38,6 +38,14 @@ fal.live is a continuous AI-generated television experience powered by fal and M
 
 Renoise Live is an AI-powered survival show that never stops filming. Follow four contestants stranded on a storm-hit island while the live chat decides what happens to them next, showcasing MiniMax-powered video generation in an interactive, continuously evolving broadcast.
 
+### Diiverge
+
+🌐 https://www.diiverge.co/
+
+![diiverge](https://github.com/lmf12/ImageHost/blob/master/awesome-minimax-h3-max/diiverge.webp)
+
+Diiverge turns a single picture into an explorable, evolving world. Touch anything in the frame, choose what happens next, and watch the moment play as film; the paths you create remain available for future visitors, creating a shared interactive storytelling experience powered by generative video.
+
 ### Interdimensional Game
 
 🌐 https://github.com/blendi-remade/interdimensional-game
@@ -54,9 +62,27 @@ Interdimensional Game is an AI-powered interactive game project built around gen
 
 Live Classroom is an AI-generated TV channel that teaches any topic you type. An LLM plans each one-minute lesson into twelve five-second beats, while MiniMax H3 Max Turbo renders 1970s-style educational-cartoon scenes just before they air on a CRT in a 3D classroom. Its program guide lets viewers queue the next lesson, showcasing just-in-time generative video for an interactive learning experience.
 
+### UNREEL
+
+🌐 https://github.com/blendi-remade/unreel
+
+![unreel](https://github.com/lmf12/ImageHost/blob/master/awesome-minimax-h3-max/unreel.webp)
+
+UNREEL is an endless television service where episodes are written and rendered while you watch. Choose an original film or live chaos channel, and a showrunner LLM writes each shot as MiniMax H3 Max Turbo renders it in real time, chaining scenes from the previous frame to create a seamless, continuously generated stream.
+
+### H3 Max Realtime Education
+
+🌐 https://github.com/gokayfem/h3-max-education
+
+![h3-max-education](https://github.com/lmf12/ImageHost/blob/master/awesome-minimax-h3-max/h3-max-education.webp)
+
+H3 Max Realtime Education is an interruptible science tutor with continuously generated teaching videos. It combines natural voice conversation with a queue of five-second MiniMax H3 Max clips, handing off decoded videos seamlessly while adapting visuals to the learner’s latest topic and interruptions.
+
 ## Free MiniMax H3 Max Tools
 
 A collection of tools that provide free credits or trial access to MiniMax H3 Max, making it easy to try its AI video generation features.
 
 * [minimax-h3.com](https://minimax-h3.com/)
 * [h3max.pro](https://h3max.pro/)
+* [h3max.me](https://h3max.me/)
+* [h3max.ai](https://h3max.ai/)
