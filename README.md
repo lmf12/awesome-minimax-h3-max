@@ -14,7 +14,9 @@ MiniMax H3 Max is an AI video generation model developed by fal Research based o
 
 Explore applications and projects powered by MiniMax H3 Max, from AI video creation tools to innovative creative workflows.
 
-### [Infinite Slop](https://infiniteslop.ai/)
+### Infinite Slop
+
+🌐 https://infiniteslop.ai/
 
 ![infinite-slop](https://github.com/lmf12/ImageHost/blob/master/awesome-minimax-h3-max/infinite-slop.webp)
 
